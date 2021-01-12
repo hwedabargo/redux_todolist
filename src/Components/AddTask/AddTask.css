@@ -1,0 +1,23 @@
+.AddTask{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+    background-color: rgb(105, 5, 67);
+}
+.AddField{
+display: flex;
+width: 70%;
+}
+.AddField>*{
+margin: 1%;
+}
+h1{
+    color: white;
+}
+/* .add-todo{
+    border:"2px white solid" ;
+    color :"white" ;
+} */
+
